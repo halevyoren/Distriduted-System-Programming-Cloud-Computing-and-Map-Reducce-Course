@@ -1,6 +1,8 @@
 submitters:
-1. Oren Halevy 307903047
-2. Vladislav Yegorov 316721463
+1. Oren Halevy 
+2. Vladislav Yegorov 
+
+In this assignment we are automatically extracting collocations from the Google 2-grams dataset using Amazon Elastic Map Reduce.
 
 At the end of the run, the output could be found on the S3 link: s3://top-100-collocations-688622487960/output/step8
 
